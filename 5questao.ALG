@@ -1,5 +1,5 @@
 Algoritmo "semnome"
-
+deu errado uuhuhuhuhuhuh
 
 Var
 i,psmxm,pmini:inteiro
@@ -20,10 +20,10 @@ leia(pb)
 
 sm:=sm+pb
 se (pb<=400) entao
-escreval(ib," é boi magro")
+escreval(ib," Ã© boi magro")
 senao
  se (pb>=500) entao
- escreval(ib," é boi gordo")
+ escreval(ib," Ã© boi gordo")
  fimse
 fimse
 
